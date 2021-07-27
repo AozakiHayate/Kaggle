@@ -7,4 +7,4 @@ such as extracting all the text from Street View. This competition is designed f
 https://www.kaggle.com/c/tpu-getting-started
 
 
-
+2021/07/27  12/1035
