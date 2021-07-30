@@ -8,3 +8,6 @@ and provide billions of Android phone users with a more fine-tuned positioning e
 https://www.kaggle.com/c/google-smartphone-decimeter-challenge/overview
 
 Ongoing
+
+
+2021/07/30  34/774
