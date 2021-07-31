@@ -8,6 +8,6 @@ My Kaggle project&amp;training
 
 2021/07/21 SIIM-FISABIO-RSNA COVID-19 Detection
 
-2021/07/22 
+2021/07/22 Google Smartphone Decimeter Challenge
 
 2021/07/27 
