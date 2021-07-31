@@ -6,7 +6,7 @@ My Kaggle project&amp;training
 
 2021/07/20 Sunlightsedu - Rossmann  
 
-2021/07/21 
+2021/07/21 SIIM-FISABIO-RSNA COVID-19 Detection
 
 2021/07/22 
 
