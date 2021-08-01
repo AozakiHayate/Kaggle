@@ -10,4 +10,4 @@ My Kaggle project&amp;training
 
 2021/07/22 Google Smartphone Decimeter Challenge
 
-2021/07/27 
+2021/07/27 Petals to the Metal - Flower Classification on TPU
