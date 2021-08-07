@@ -12,4 +12,5 @@ My Kaggle project&amp;training
 
 2021/07/27 Petals to the Metal - Flower Classification on TPU
 
-2021/08/06 Google Smartphone Decimeter Challenge 38/820 Silver！！！
+2021/08/06 Google Smartphone Decimeter Challenge 38/820 Silver！！！*（TOP5%）
+
