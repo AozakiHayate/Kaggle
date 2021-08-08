@@ -9,5 +9,5 @@ Five times more deadly than the flu, COVID-19 causes significant morbidity and m
 2021/07/23
 SIIM EffNetV2 test(version 3/3)  Public Score 0.605 Public Leaderboard 257/1099
 
-2021/08/08 0.621
+2021/08/08 Public Score 0.621 Public Leaderboard 86/1273
 
