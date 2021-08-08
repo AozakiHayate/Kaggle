@@ -2,7 +2,6 @@
 My Kaggle project&amp;training
 
 My Kaggle Page  
-
 https://www.kaggle.com/yiyanghao
 
 2021/06/28 Boston_housing  
