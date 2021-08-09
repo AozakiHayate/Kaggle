@@ -16,3 +16,4 @@ https://www.kaggle.com/yiyanghao
 
 **2021/08/06 Google Smartphone Decimeter Challenge 38/820 Silver！！！（TOP5%）**
 
+ ![astronaut Made By jianliming2](https://github.com/AozakiHayate/Thesis-/blob/main/astronaut.svg) 
