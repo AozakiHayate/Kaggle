@@ -14,7 +14,7 @@ https://www.kaggle.com/yiyanghao
 
 2021/07/27 Petals to the Metal - Flower Classification on TPU
 
-**2021/08/06 Google Smartphone Decimeter Challenge 38/820 Silver！！！（TOP5%）**
+**2021/08/06 Google Smartphone Decimeter Challenge 38/820 Silver（TOP5%）**
 
 **2021/08/10 SIIM-FISABIO-RSNA COVID-19 Detection 56/1324 Silver（TOP5%）**
 
