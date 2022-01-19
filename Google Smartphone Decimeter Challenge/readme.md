@@ -7,9 +7,18 @@ and provide billions of Android phone users with a more fine-tuned positioning e
 
 https://www.kaggle.com/c/google-smartphone-decimeter-challenge/overview
 
-Ongoing
+Finished at 2021/07
 
 
 2021/07/30  34/774
 
 **2021/08/06  38/820 Silver！！！（TOP5%）**
+
+**2022/01  コンペティションにエントリーモデルの公開**  
+公開されたコードは「code_by_HAO's_team」に添付します。
+
+HAO (github:AozakiHayate)  
+(KaggleID:https://www.kaggle.com/yiyanghao)
+
+  
+Apache-2.0 License
