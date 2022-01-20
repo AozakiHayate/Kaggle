@@ -11,3 +11,10 @@ SIIM EffNetV2 test(version 3/3)  Public Score 0.605 Public Leaderboard 257/1099
 
 2021/08/08 Public Score 0.621 Public Leaderboard 86/1273
 
+2022/01 コンペティションにエントリーした優勝モデルを公開しました
+公開されたコードは「code_team_entry_last_version」に添付します。
+
+HAO (github:AozakiHayate)
+(KaggleID:https://www.kaggle.com/yiyanghao)
+
+Apache-2.0 License
