@@ -22,4 +22,6 @@ https://www.kaggle.com/yiyanghao
 
 2021/12 Safety Helmet Detection
 
+2022/01 Jigsaw Rate Severity of Toxic Comments
+
  ![astronaut Made By jianliming2](https://github.com/AozakiHayate/Thesis-/blob/main/astronaut.svg) 
