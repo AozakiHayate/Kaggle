@@ -12,3 +12,4 @@ https://www.kaggle.com/c/google-smartphone-decimeter-challenge/overview
 
 2022/01/22 200/2008teams  top10%  
 
+2022/01/29 300/2008teams 
