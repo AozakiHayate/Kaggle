@@ -14,6 +14,6 @@ https://www.kaggle.com/c/google-smartphone-decimeter-challenge/overview
 
 2022/01/29 300/2008teams 
 
-2022/02/09 37/2301 Top2% 銀メダル獲得
+2022/02/09 37/2301 Top2% 銀メダル獲得　
 
 ソースコードを2月下旬に公開する予定です。
