@@ -24,4 +24,7 @@ https://www.kaggle.com/yiyanghao
 
 2022/01 Jigsaw Rate Severity of Toxic Comments
 
+2024/08
+
  ![astronaut Made By jianliming2](https://github.com/AozakiHayate/Thesis-/blob/main/astronaut.svg) 
+
